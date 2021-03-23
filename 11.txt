@@ -1,0 +1,26 @@
+
+name="[COLOR red][B]W[/B][/COLOR][COLOR ghostwhite][B]ELCOME TO BADAZZ BACKGROUND[/B][/COLOR][COLOR red][B]S[/B][/COLOR]" 
+url="http://"
+icon="http://www.midian.appboxes.co/wolfyB/wizard/themes/badazzthemes.png"
+fanart="https://hdwallpaper20.com/wp-content/uploads/2016/12/badass-wallpapers-free-Download2.jpg"
+description="BMC Themes"
+
+name="[COLOR red][B]C[/B][/COLOR][COLOR ghostwhite][B]HANGE AS OFTEN AS YOU LIK[/B][/COLOR][COLOR red][B]E[/B][/COLOR]" 
+url="http://"
+icon="http://www.midian.appboxes.co/wolfyB/wizard/themes/badazzthemes.png"
+fanart="https://hdwallpaper20.com/wp-content/uploads/2016/12/badass-wallpapers-free-Download2.jpg"
+description="BMC Themes"
+
+name="[COLOR red][B]----------------------------------------------------------------------------[/B][/COLOR]"
+url="http://"
+icon="http://www.midian.appboxes.co/wolfyB/wizard/themes/badazzthemes.png"
+fanart="https://hdwallpaper20.com/wp-content/uploads/2016/12/badass-wallpapers-free-Download2.jpg"
+description="BMC Themes"
+
+name="[COLOR red][B]1[/B][/COLOR][COLOR ghostwhite][B]950'[/B][/COLOR][COLOR red][B]S[/B][/COLOR]" 
+url="http://www.midian.appboxes.co/wolfyB/wizard/themes/50s/images.zip"
+icon="https://cdn.pixabay.com/photo/2016/11/12/03/26/casal-1818171_960_720.png"
+fanart="https://hdwallpaper20.com/wp-content/uploads/2016/12/badass-wallpapers-free-Download2.jpg"
+description="BMC Themes"
+
+
